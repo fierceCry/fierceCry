@@ -1,4 +1,5 @@
-# 안녕하세요, 김망구입니다! 👋
+<!-- 타이틀과 소개 -->
+# KIMMANGYU's GitHub Profile 🌟
 
 저는 열정적인 개발자로, 새로운 기술을 배우고 창의적인 해결책을 찾는 것을 좋아합니다. 협업과 커뮤니케이션을 중시하며, 지속적으로 성장하기 위해 노력합니다. 아래는 제가 사용하는 기술 스택입니다.
 
@@ -21,8 +22,8 @@
 
 <!-- 여기에 최근 작업한 프로젝트 섹션을 추가할 수 있습니다 -->
 ## 🔭 I’m currently working on ...
-- [ ] 프로젝트 이름 1
-- [ ] 프로젝트 이름 2
+- [Buster](https://github.com/fierceCry/wecode48th_Buster.git)
+- [richmaker](https://github.com/fierceCry/wecode48th_richmaker_a.git)
 
 <!-- GitHub 사용 언어 통계 -->
 ## 📈 GitHub Language Stats
