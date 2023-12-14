@@ -10,3 +10,5 @@
 [![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)](https://better-tachometer-013.notion.site/85d03d78f0d94c8283bfe5abb25df25c?pvs=4)
 [![Tistory](https://img.shields.io/badge/Tistory-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white)](https://kimmangyu.tistory.com/)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?fierceCry=anuraghazra&show_icons=true&theme=radical)
