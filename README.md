@@ -28,14 +28,14 @@
     <!-- Connect with Me Section -->
     <td valign="top" width="50%">
       
-<div align="center" style="margin: 100px;"> <!-- Adjust the margin value as needed -->
+<div align="center"> <!-- Adjust the margin value as needed -->
   <a href="https://better-tachometer-013.notion.site/85d03d78f0d94c8283bfe5abb25df25c?pvs=4">
-    <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion" width="125" height="28"/>
+    <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion" width="100" height="28"/>
   </a>
 </div>
-<div align="center" style="margin: 100px;"> <!-- Adjust the margin value as needed -->
+<div align="center"> <!-- Adjust the margin value as needed -->
   <a href="https://kimmangyu.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white" alt="Tistory" width="125" height="28"/>
+    <img src="https://img.shields.io/badge/Tistory-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white" alt="Tistory" width="100" height="28"/>
   </a>
 </div>
 </p>
