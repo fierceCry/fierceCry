@@ -11,4 +11,4 @@
 [![Tistory](https://img.shields.io/badge/Tistory-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white)](https://kimmangyu.tistory.com/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?fierceCry=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fierceCry&show_icons=true&theme=radical)
