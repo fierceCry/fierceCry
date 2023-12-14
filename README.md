@@ -22,8 +22,8 @@
 
 <!-- 여기에 최근 작업한 프로젝트 섹션을 추가할 수 있습니다 -->
 ## 🔭 I’m currently working on ...
-- [Buster](https://github.com/fierceCry/wecode48th_Buster.git)
-- [richmaker](https://github.com/fierceCry/wecode48th_richmaker_a.git)
+- [Buster](https://github.com/fierceCry/wecode48th_Buster.git) - 인테리어 플랫폼
+- [richmaker](https://github.com/fierceCry/wecode48th_richmaker_a.git) - 공동자산관리 플랫폼
 
 <!-- GitHub 사용 언어 통계 -->
 ## 📈 GitHub Language Stats
