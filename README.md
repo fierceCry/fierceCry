@@ -1,6 +1,11 @@
 ### Hi there 👋
+
+<a href="https://kimmangyu.tistory.com/" target="_blank"><img src="http://www.w3.org/2000/svg/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fierceCry&show_icons=true&theme=radical)
 <!--
+
+
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Tistory</title><path d="M0 3a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 18a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 0a3 3 0 1 0 6 0 3 3 0 0 0-6 0"/></svg>
 **fierceCry/fierceCry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
