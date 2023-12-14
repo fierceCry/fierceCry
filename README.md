@@ -23,7 +23,7 @@
     <!-- Add more badges here -->
 </p>
 
-<table>
+<table align="center" style="margin: 0px auto;">
   <tr>
     <!-- Connect with Me Section -->
     <td valign="top" width="50%">
