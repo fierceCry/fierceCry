@@ -1,7 +1,5 @@
 # KIMMANGYU's GitHub Profile 🌟
 
-## 🚀 Technologies
-
 <p align="left">
   <a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" /></a>
   <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
@@ -12,8 +10,6 @@
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
 </p>
 
-## 📬 Contact
-
 <div align="center" style="margin: 50px 0;">
   <a href="https://better-tachometer-013.notion.site/85d03d78f0d94c8283bfe5abb25df25c?pvs=4">
     <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion"/>
@@ -22,8 +18,6 @@
     <img src="https://img.shields.io/badge/Tistory-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white" alt="Tistory"/>
   </a>
 </div>
-
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fierceCry&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
