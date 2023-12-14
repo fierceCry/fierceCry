@@ -33,11 +33,11 @@
 </p>
 <p align="center">
   <a href="https://better-tachometer-013.notion.site/85d03d78f0d94c8283bfe5abb25df25c?pvs=4">
-    <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion" />
+    <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion" height="28"/>
   </a>
   <br>
   <a href="https://kimmangyu.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white" alt="Tistory" />
+    <img src="https://img.shields.io/badge/Tistory-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white" alt="Tistory" height="28"/>
   </a>
 </p>
 
