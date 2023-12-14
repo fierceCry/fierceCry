@@ -29,9 +29,6 @@
     <td valign="top" width="50%">
       
 <p align="center">
-  <strong>🤝 Connect with Me</strong>
-</p>
-<p align="center">
   <a href="https://better-tachometer-013.notion.site/85d03d78f0d94c8283bfe5abb25df25c?pvs=4">
     <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion" height="60"/>
   </a>
@@ -45,9 +42,6 @@
     <!-- GitHub Stats Section -->
     <td valign="top" width="50%">
       
-<p align="center">
-  <strong>📊 GitHub Stats</strong>
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fierceCry&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
