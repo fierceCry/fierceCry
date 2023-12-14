@@ -23,13 +23,34 @@
     <!-- Add more badges here -->
 </p>
 
+<table>
+  <tr>
+    <!-- Connect with Me Column -->
+    <td valign="top" width="50%">
+      
 ## 🤝 Connect with Me
-[![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)](https://better-tachometer-013.notion.site/85d03d78f0d94c8283bfe5abb25df25c?pvs=4)
-[![Tistory](https://img.shields.io/badge/Tistory-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white)](https://kimmangyu.tistory.com/)
+<p align="left">
+  <a href="https://better-tachometer-013.notion.site/85d03d78f0d94c8283bfe5abb25df25c?pvs=4">
+    <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion" />
+  </a>
+  <a href="https://kimmangyu.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white" alt="Tistory" />
+  </a>
+</p>
 
-
+    </td>
+    <!-- GitHub Stats Column -->
+    <td valign="top" width="50%">
+      
 ## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fierceCry&show_icons=true&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=fierceCry&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
+</p>
+
+    </td>
+  </tr>
+</table>
+
 
 <!-- 여기에 최근 작업한 프로젝트 섹션을 추가할 수 있습니다 -->
 ## 🔭 I’m currently working on ...
