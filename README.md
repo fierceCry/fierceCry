@@ -11,10 +11,10 @@
 </p>
 
 <div align="left" style="margin: 50px;">
-  <a href="https://better-tachometer-013.notion.site/85d03d78f0d94c8283bfe5abb25df25c?pvs=4"       text-decoration-line: none;>
+  <a href="https://better-tachometer-013.notion.site/85d03d78f0d94c8283bfe5abb25df25c?pvs=4" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion"/>
   </a>
-  <a href="https://kimmangyu.tistory.com/"      text-decoration-line: none;>
+  <a href="https://kimmangyu.tistory.com/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Tistory-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white" alt="Tistory"/>
   </a>
 </div>
